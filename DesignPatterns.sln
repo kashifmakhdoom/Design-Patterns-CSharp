@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{51C54352-1897-4749-BD39-660613C2235B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 -Builder", "04 -Builder", "{21752809-82A5-4212-8444-166F656129FC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Builder", "04 - Builder", "{21752809-82A5-4212-8444-166F656129FC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{8552B7D4-35B3-4916-8D5D-D0479802BA35}"
 EndProject
